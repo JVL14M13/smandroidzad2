@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">zad1android</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następny</string>
+
+    <string name="correct_answer">Dobra odpowiedź!</string>
+    <string name="incorrect_answer">Zła odpowiedź!</string>
+    <string name="answer_was_shown">Odpowiedz została już sprawdzona!</string>
+
+    <string name="question_1">Czy Słońce jest gwiazdą?</string>
+    <string name="question_2">Czy Ziemia ma tylko jeden księżyc?</string>
+    <string name="question_3">Czy woda zamarza w temperaturze 0 stopni Celsjusza?</string>
+    <string name="question_4">Czy wszystkie kontynenty są zamieszkane?</string>
+    <string name="question_5">Czy delfiny są ssakami?</string>
+
+    <string name="hint_question_1">Słońce jest częścią Układu Słonecznego, a jego energia dociera do Ziemi.</string>
+    <string name="hint_question_2">Księżyc widoczny na niebie jest najbliższym obiektem kosmicznym Ziemi.</string>
+    <string name="hint_question_3">Temperatura zamarzania wody jest równa temperaturze topnienia lodu.</string>
+    <string name="hint_question_4">Nie wszystkie kontynenty mają trwałe osady ludzkie.</string>
+    <string name="hint_question_5">Te zwierzęta żyją w wodzie, ale oddychają powietrzem.</string>
+
+
+</resources>
